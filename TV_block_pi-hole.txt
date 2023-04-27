@@ -13,6 +13,8 @@ yqb-efz.ms-acdc.office.com
 userpresence.xboxlive.com
 geover.prod.do.dsp.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
+array502.prod.do.dsp.mp.microsoft.com
 
 #for amazon
 ads.amazon.com
@@ -28,6 +30,7 @@ lcprd1.samsungcloudsolution.net
 ocfconnect-shard-na03-useast2.samsungiotcloud.com
 osb-v2.samsungqbe.com
 a247c.playfabapi.com
+device-metrics-us-2.amazon.com
 
 #from  elraro / blocked-samsung-tv-ads
 config.samsungads.com
@@ -61,6 +64,7 @@ metrics.icloud.com
 1-courier.push.apple.com
 1.courier-push-apple.com.akadns.net
 10-courier.push.apple.com
+11-courier.push.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
