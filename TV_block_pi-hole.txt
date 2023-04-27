@@ -1,11 +1,23 @@
+#general
+clientfd.family.microsoft.com
+ad.360yield.com
+ad.doubleclick.net
+app-measurement.com
+google-analytics.com
+
 #for amazon
 ads.amazon.com
 amazon-adsystem.com
 ads.amazon-adsystem.com
-
+unagi-na.amazon.com
+aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
 
 #for samsung
 ads.samsung.com
+lcprd1.samsungcloudsolution.net
+ocfconnect-shard-na03-useast2.samsungiotcloud.com
+osb-v2.samsungqbe.com
 
 #from  elraro / blocked-samsung-tv-ads
 config.samsungads.com
