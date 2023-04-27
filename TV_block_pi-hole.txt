@@ -1,15 +1,17 @@
 #general
-clientfd.family.microsoft.com
 ad.360yield.com
 ad.doubleclick.net
 app-measurement.com
 google-analytics.com
-yqb-efz.ms-acdc.office.com
+graph.facebook.com
+
+#for microsoft
+clientfd.family.microsoft.com
 www.msftconnecttest.com
 self.events.data.microsoft.com
+yqb-efz.ms-acdc.office.com
 userpresence.xboxlive.com
 geover.prod.do.dsp.mp.microsoft.com
-graph.facebook.com
 1d.tlu.dl.delivery.mp.microsoft.com
 
 #for amazon
