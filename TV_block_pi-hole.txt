@@ -4,6 +4,12 @@ ad.360yield.com
 ad.doubleclick.net
 app-measurement.com
 google-analytics.com
+yqb-efz.ms-acdc.office.com
+www.msftconnecttest.com
+self.events.data.microsoft.com
+userpresence.xboxlive.com
+geover.prod.do.dsp.mp.microsoft.com
+graph.facebook.com
 
 #for amazon
 ads.amazon.com
@@ -18,6 +24,7 @@ ads.samsung.com
 lcprd1.samsungcloudsolution.net
 ocfconnect-shard-na03-useast2.samsungiotcloud.com
 osb-v2.samsungqbe.com
+a247c.playfabapi.com
 
 #from  elraro / blocked-samsung-tv-ads
 config.samsungads.com
@@ -46,6 +53,7 @@ lcprd1.samsungcloudsolution.net
 sas.samsungcloudsolution.com 
 
 #for apple
+init-p01md.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
