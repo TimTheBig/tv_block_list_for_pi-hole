@@ -54,6 +54,7 @@ sas.samsungcloudsolution.com
 
 #for apple
 init-p01md.apple.com
+metrics.icloud.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
