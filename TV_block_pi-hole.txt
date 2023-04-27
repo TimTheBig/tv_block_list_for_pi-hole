@@ -3,11 +3,12 @@ ads.amazon.com
 amazon-adsystem.com
 ads.amazon-adsystem.com
 
+
 #for samsung
 ads.samsung.com
 
-#for apple
 
+#for apple
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
 0.courier-push-apple.com.akadns.net
