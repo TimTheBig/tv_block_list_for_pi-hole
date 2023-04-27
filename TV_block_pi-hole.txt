@@ -4,6 +4,8 @@ ad.doubleclick.net
 app-measurement.com
 google-analytics.com
 graph.facebook.com
+api2.amplitude.com
+identity-api.myfitnesspal.com
 
 #for microsoft
 clientfd.family.microsoft.com
@@ -32,6 +34,7 @@ ocfconnect-shard-na03-useast2.samsungiotcloud.com
 osb-v2.samsungqbe.com
 a247c.playfabapi.com
 device-metrics-us-2.amazon.com
+samsungqbe.com
 
 #from  elraro / blocked-samsung-tv-ads
 config.samsungads.com
@@ -66,6 +69,7 @@ metrics.icloud.com
 1.courier-push-apple.com.akadns.net
 10-courier.push.apple.com
 11-courier.push.apple.com
+gsp85-ssl.ls2-apple.com.akadns.net
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
