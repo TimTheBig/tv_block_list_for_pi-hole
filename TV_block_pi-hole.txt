@@ -1,3 +1,9 @@
+#for amazon
 ads.amazon.com
 amazon-adsystem.com
 ads.amazon-adsystem.com
+
+#for samsung
+ads.samsung.com
+
+#for apple
