@@ -7,8 +7,34 @@ ads.amazon-adsystem.com
 #for samsung
 ads.samsung.com
 
+#from  elraro / blocked-samsung-tv-ads
+config.samsungads.com
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsungacr.com
+samsungads.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungotn.net
+insights.samsung.com
+nmetrics.samsung.com
+samsungacr.com
+log-config.samsungacr.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+ad.samsungadhub.com
+samsungads.com
+ads.samsungads.com
+config.samsungads.com
+events.samsungads.com
+bpu.samsungelectronics.com
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+osb-v1-alb.samsungqbe.com
+lcprd1.samsungcloudsolution.net
+sas.samsungcloudsolution.com 
 
 #for apple
+
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
 0.courier-push-apple.com.akadns.net
