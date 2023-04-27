@@ -59,6 +59,8 @@ sas.samsungcloudsolution.com
 init-p01md.apple.com
 metrics.icloud.com
 1-courier.push.apple.com
+1.courier-push-apple.com.akadns.net
+10-courier.push.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
