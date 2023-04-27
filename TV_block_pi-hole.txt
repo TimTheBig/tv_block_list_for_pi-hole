@@ -10,6 +10,7 @@ self.events.data.microsoft.com
 userpresence.xboxlive.com
 geover.prod.do.dsp.mp.microsoft.com
 graph.facebook.com
+1d.tlu.dl.delivery.mp.microsoft.com
 
 #for amazon
 ads.amazon.com
@@ -55,6 +56,7 @@ sas.samsungcloudsolution.com
 #for apple
 init-p01md.apple.com
 metrics.icloud.com
+1-courier.push.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
