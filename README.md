@@ -1,5 +1,5 @@
 # tv_block_list_for_pi-hole
-A pi-hole block list for samsung tv's, apple tv, fire tv and microsoft.
+A pi-hole block list for samsung tv's, apple tv, fire tv, microsoft and more.
 my first list.
 
 link: 
