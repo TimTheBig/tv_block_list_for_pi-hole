@@ -24,6 +24,7 @@ go.oracle.com
 log.pinterest.com
 logql.yahoo.co.jp
 log.quora.com
+metrics.amd.com
 
 
 #for amazon
@@ -443,6 +444,7 @@ metrics.icloud.com
 11-courier.push.apple.com
 gsp85-ssl.ls2-apple.com.akadns.net
 guzzoni.apple.com
+metrics.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
