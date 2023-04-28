@@ -21,6 +21,9 @@ googletagmanager-cn.com
 googletagmanager.comgo.ondutydoc.com
 go.onecart.co.za
 go.oracle.com
+log.pinterest.com
+logql.yahoo.co.jp
+log.quora.com
 
 
 #for amazon
