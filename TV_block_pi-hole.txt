@@ -9,6 +9,11 @@ graph.facebook.com
 api2.amplitude.com
 identity-api.myfitnesspal.com
 console-telemetry.oci.oraclecloud.com
+events.reddit.com
+events.redditmedia.com
+events.santander.co.uk
+events-service.coinbase.com
+events.shareably.net
 
 
 #for amazon
