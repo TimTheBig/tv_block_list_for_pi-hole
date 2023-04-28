@@ -1,3 +1,5 @@
+license: GNU GENERAL PUBLIC LICENSE
+# list:
 #general
 ad.360yield.com
 ad.doubleclick.net
