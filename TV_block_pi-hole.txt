@@ -418,12 +418,9 @@ api-glb-nyc.smoot.apple.com
 api-glb-sea.smoot.apple.com
 api-glb.smoot.apple.com
 api.itunes.apple.com
-api.music.apple.com
-api.podcasts.apple.com
 api.smoot.apple.com
 api.smoot-apple.com.akadns.net
 api.videos.apple.com
-api.weather.com
 appldnld.apple.com
 appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
@@ -460,7 +457,6 @@ buy.itunes.apple.com
 buy.itunes-apple.com.akadns.net
 caldav.fe.apple-dns.net
 caldav.icloud.com
-c.apple.news
 captive.apple.com
 captive-cdn.origin-apple.com.akadns.net
 captive-cidr.origin-apple.com.akadns.net
