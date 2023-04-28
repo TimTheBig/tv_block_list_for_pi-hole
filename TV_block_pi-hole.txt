@@ -36,6 +36,7 @@ osb-v2.samsungqbe.com
 a247c.playfabapi.com
 device-metrics-us-2.amazon.com
 samsungqbe.com
+customerevents.netflix.com
 
 #from  elraro / blocked-samsung-tv-ads
 config.samsungads.com
@@ -96,6 +97,7 @@ metrics.icloud.com
 10-courier.push.apple.com
 11-courier.push.apple.com
 gsp85-ssl.ls2-apple.com.akadns.net
+guzzoni.apple.com
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
