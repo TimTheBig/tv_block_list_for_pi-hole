@@ -14,6 +14,13 @@ events.redditmedia.com
 events.santander.co.uk
 events-service.coinbase.com
 events.shareably.net
+google-analytics-cn.com
+googleoptimize-cn.com
+googleoptimize.com
+googletagmanager-cn.com
+googletagmanager.comgo.ondutydoc.com
+go.onecart.co.za
+go.oracle.com
 
 
 #for amazon
