@@ -446,6 +446,8 @@ metrics.icloud.com
 gsp85-ssl.ls2-apple.com.akadns.net
 guzzoni.apple.com
 metrics.apple.com
+securemvt.apple.com
+securemvt.apple.com.cn
 
 #from cedws / apple-telemetry: 
 0-courier.push.apple.com
