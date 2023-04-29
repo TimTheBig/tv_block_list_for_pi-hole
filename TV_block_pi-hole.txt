@@ -46,7 +46,6 @@ www.msftconnecttest.com
 self.events.data.microsoft.com
 yqb-efz.ms-acdc.office.com
 geover.prod.do.dsp.mp.microsoft.com
-1d.tlu.dl.delivery.mp.microsoft.com
 disc501.prod.do.dsp.mp.microsoft.com
 array502.prod.do.dsp.mp.microsoft.com
 kv501.prod.do.dsp.mp.microsoft.com
