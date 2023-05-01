@@ -377,7 +377,6 @@ ads.samsung.com
 lcprd1.samsungcloudsolution.net
 ocfconnect-shard-na03-useast2.samsungiotcloud.com
 osb-v2.samsungqbe.com
-a247c.playfabapi.com
 device-metrics-us-2.amazon.com
 samsungqbe.com
 customerevents.netflix.com
