@@ -26,6 +26,7 @@ logql.yahoo.co.jp
 log.quora.com
 metrics.amd.com
 metrics.roblox.com
+collector.github.com
 
 
 #for amazon
