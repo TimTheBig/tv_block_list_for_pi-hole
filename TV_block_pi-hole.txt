@@ -51,6 +51,7 @@ disc501.prod.do.dsp.mp.microsoft.com
 array502.prod.do.dsp.mp.microsoft.com
 kv501.prod.do.dsp.mp.microsoft.com
 self.events.data.microsoft.com
+settings-win.data.microsoft.com
 
 #from  crazy-max / WindowsSpyBlocker 
 *.adnxs.com
