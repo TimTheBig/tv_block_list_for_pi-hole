@@ -382,6 +382,7 @@ osb-v2.samsungqbe.com
 device-metrics-us-2.amazon.com
 samsungqbe.com
 customerevents.netflix.com
+pool.ntp.org
 
 
 
