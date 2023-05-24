@@ -27,6 +27,17 @@ log.quora.com
 metrics.amd.com
 metrics.roblox.com
 collector.github.com
+cloudflareinsights.com
+cdn-spurit.com
+cdnhub.co
+chartbeat.com
+chimpstatic.com
+dla.group
+dmca.com
+doppiocdn.com
+doppiocdn.org
+dotmetrics.net
+doubleclick.net
 
 
 #for amazon
