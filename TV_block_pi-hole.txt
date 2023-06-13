@@ -758,12 +758,10 @@ amp-api-edge.apps.apple.com
 amp-api.podcasts.apple.com
 amp-api-search-edge.apps.apple.com
 any-appleweather-cache.internal.query.a03.yahoodns.net
-aod.itunes.apple.com
 aod.itunes.g.aaplimg.com
 api-aka.smoot.apple.com
 api.apple-cloudkit.com
 api.apple-cloudkit.fe.apple-dns.net
-api.apps.apple.com
 api-apps-lb.itunes-apple.com.akadns.net
 api.books.apple.com
 api.developer.apple.com
@@ -782,7 +780,6 @@ api-glb-man.smoot.apple.com
 api-glb-nyc.smoot.apple.com
 api-glb-sea.smoot.apple.com
 api-glb.smoot.apple.com
-api.itunes.apple.com
 api.smoot.apple.com
 api.smoot-apple.com.akadns.net
 api.videos.apple.com
@@ -796,7 +793,6 @@ appleid.cdn-apple.com
 apple-mobile.query.yahooapis.com
 apple.news
 appleweather-cache.internal.query.g03.yahoodns.net
-apps.apple.com
 apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
@@ -811,7 +807,6 @@ b2.mzstatic.com
 b3.mzstatic.com
 b4.mzstatic.com
 b5.mzstatic.com
-bag.itunes.apple.com
 basejumper.apple.com
 beta.itunes.apple.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
