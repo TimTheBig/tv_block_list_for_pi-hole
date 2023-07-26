@@ -1532,8 +1532,6 @@ swscan.apple.com
 tbsc.apple.com
 tbsc.apple.com.akadns.net
 tf-feedback.itunes.apple.com
-time-ios.g.aaplimg.com
-time-osx.g.aaplimg.com
 tr.iadsdk.apple.com
 uic.itunes.apple.com
 updates-http.cdn-apple.com
@@ -1563,8 +1561,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.buglife.com
 www-cdn.icloud.com.akadns.net
-www.icloud.com
-xp.apple.com
 xp.itunes-apple.com.akadns.net
 zeusmedia.apple.com
 zeusmedia.g.aaplimg.com
