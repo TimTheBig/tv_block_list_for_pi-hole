@@ -1527,7 +1527,6 @@ streamingaudio.g.aaplimg.com
 streamingaudio.itunes.apple.com
 su-applak.itunes-apple.com.akadns.net
 su.itunes.apple.com
-support.apple.com
 swcdn.apple.com
 swscan.apple.com
 sync.itunes.apple.com
