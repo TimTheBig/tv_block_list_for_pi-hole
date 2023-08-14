@@ -796,8 +796,6 @@ apps.mzstatic.com
 apptrailers.itunes.apple.com
 apptrailers.itunes.g.aaplimg.com
 apsu.apple.com
-ax.init.itunes.apple.com
-ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 b1.mzstatic.com
 b2.mzstatic.com
@@ -1473,9 +1471,7 @@ smp-paymentservices.apple.com
 s-mzstatic-applak.itunes-apple.com.akadns.net
 s.mzstatic.com
 sp11p03sa.guzzoni-apple.com.akadns.net
-sp.itunes.apple.com
 sp.itunes-apple.com.akadns.net
-ssl.apple.com
 static.deviceservices.apple.com
 static.ess.apple.com
 static.gc.apple.com
