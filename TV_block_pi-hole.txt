@@ -881,11 +881,9 @@ edge-044.gblon.ce.apple-dns.net
 edge-045.gblon.ce.apple-dns.net
 edge.itunes.apple.com
 edge-search.itunes.apple.com
-embed.itunes.apple.com
 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 europe.configsvc1.live.com.akadns.net
 europe.odcsm1.live.com.akadns.net
-files.itunes.apple.com
 finance-app.itunes.apple.com
 fmip.fe.apple-dns.net
 fmipmobile.fe.apple-dns.net
@@ -944,14 +942,11 @@ gsp-ssl-dynamic.ls-apple.com.akadns.net
 gsp-ssl.ls2-apple.com.akadns.net
 gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
-guzzoni.apple.com
 health-assets.cdn-apple.com
-help.apple.com
 hls.itunes.apple.com
 hls.itunes.g.aaplimg.com
 iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
-identity.apple.com
 identity.apple.com.akadns.net
 identity.ess.apple.com
 identity.ess-apple.com.akadns.net
@@ -959,7 +954,6 @@ idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idmsa.apple.com
 iforgot.apple.com
-images.apple.com
 images.apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
 init.ess.apple.com
@@ -994,7 +988,6 @@ is5-ssl.mzstatic.com
 isg-apple.com.akadns.net
 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 itc.mzstatic.com
-itunes.apple.com
 itunes.apple.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
 itunesconnect.apple.com
