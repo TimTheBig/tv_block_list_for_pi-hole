@@ -1442,7 +1442,6 @@ sb.music.apple.com
 sb.tv.apple.com
 se2.itunes.apple.com
 se-applak.itunes-apple.com.akadns.net
-search.itunes.apple.com
 searn.ce.apple-dns.net
 securemetrics.apple.com
 se-edge.itunes.apple.com
@@ -1452,7 +1451,6 @@ service.gc.apple.com
 service.gc-apple.com.akadns.net
 settings.crashlytics.com
 setup.fe.apple-dns.net
-setup.icloud.com
 sf-api-token-service.itunes.apple.com
 silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
@@ -1526,7 +1524,6 @@ ut.iadsdk.apple.com
 uts-api.itunes.apple.com
 uts-api-siri.itunes.apple.com
 uts-preview.itunes.apple.com
-videos.apple.com
 vocabulary.itunes.apple.com
 vpp-app.itunes.apple.com
 web-experience.itunes.apple.com
