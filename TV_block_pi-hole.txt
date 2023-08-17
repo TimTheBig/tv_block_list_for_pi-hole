@@ -1,4 +1,5 @@
-license: GNU GENERAL PUBLIC LICENSE
+! license: GNU GENERAL PUBLIC LICENSE
+! Expires: 4 days
 # list:
 #general
 ad.360yield.com
