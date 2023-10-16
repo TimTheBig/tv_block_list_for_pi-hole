@@ -1,5 +1,5 @@
 ! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 4 days
+! Expires: 7 days
 # list:
 #general
 ad.360yield.com
@@ -338,7 +338,6 @@ kmwatsonc.events.data.microsoft.com
 lb1.www.ms.akadns.net
 mobile.pipe.aria.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
-msedge.net
 msntest.serving-sys.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -348,7 +347,6 @@ onecollector.cloudapp.aria.akadns.net
 par02p.wns.windows.com
 pre.footprintpredict.com
 presence.teams.live.com
-preview.msn.com
 rad.live.com
 rad.msn.com
 redir.metaservices.microsoft.com
