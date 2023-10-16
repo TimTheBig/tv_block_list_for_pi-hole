@@ -8,7 +8,6 @@ app-measurement.com
 google-analytics.com
 graph.facebook.com
 api2.amplitude.com
-identity-api.myfitnesspal.com
 console-telemetry.oci.oraclecloud.com
 events.reddit.com
 events.redditmedia.com
