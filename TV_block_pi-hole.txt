@@ -1,5 +1,5 @@
 ! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 4 days
+! Expires: 7 days
 # list:
 #general
 ad.360yield.com
@@ -57,7 +57,6 @@ fls-na.amazon-adsystem.com
 
 #for microsoft
 clientfd.family.microsoft.com
-www.msftconnecttest.com
 self.events.data.microsoft.com
 yqb-efz.ms-acdc.office.com
 geover.prod.do.dsp.mp.microsoft.com
@@ -1135,11 +1134,8 @@ p23-streams.icloud.com
 p24-buy.itunes.apple.com
 p24-buy.itunes-apple.com.akadns.net
 p24-content.fe.apple-dns.net
-p24-content.icloud.com
-p25-buy.itunes.apple.com
 p25-buy.itunes-apple.com.akadns.net
 p25-content.fe.apple-dns.net
-p25-content.icloud.com
 p26-buy.itunes.apple.com
 p26-buy.itunes-apple.com.akadns.net
 p26-content.fe.apple-dns.net
