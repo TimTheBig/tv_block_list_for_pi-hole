@@ -49,9 +49,9 @@ youtube.com#@#.overlay-ads
 ||doppiocdn.org
 ||dotmetrics.net^
 ||doubleclick.net^
-||
-||
-||#for amazon
+
+
+#for amazon
 ||ads.amazon.com^
 ||amazon-adsystem.com^
 ||ads.amazon-adsystem.com^
@@ -63,9 +63,9 @@ youtube.com#@#.overlay-ads
 ||advertising-api.amazon.com^
 ||fls-eu.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
-||
-||
-||#for microsoft
+
+
+#for microsoft
 ||clientfd.family.microsoft.com^
 ||www.msftconnecttest.com^
 ||self.events.data.microsoft.com^
@@ -76,8 +76,9 @@ youtube.com#@#.overlay-ads
 ||kv501.prod.do.dsp.mp.microsoft.com^
 ||self.events.data.microsoft.com^
 ||settings-win.data.microsoft.com^
-||
-||#from  crazy-max / WindowsSpyBlocker 
+
+
+#from  crazy-max / WindowsSpyBlocker 
 ||*.adnxs.com^
 ||*.ads*.msads.net^
 ||*.ads*.msn.com^
@@ -460,7 +461,7 @@ youtube.com#@#.overlay-ads
 ||smartclip.com^
 
 
-||#for apple
+#for apple
 ||init-p01md.apple.com^
 ||metrics.icloud.com^
 ||1-courier.push.apple.com^
@@ -1549,10 +1550,10 @@ youtube.com#@#.overlay-ads
 ||xp.itunes-apple.com.akadns.net^
 ||zeusmedia.apple.com^
 ||zeusmedia.g.aaplimg.com^
-||
-||#From Piperun's IP-Logger Filter
-||
-||
+
+
+#From Piperun's IP-Logger Filter
+
 ||grabify.link^$important,all
 ||bmwforum.co^$important,all
 ||leancoding.co^$important,all
@@ -1646,7 +1647,7 @@ youtube.com#@#.overlay-ads
 ||fortnight.space^$important,all
 ||stopify.co^$important,all
 ||stock-images.0o.si^$important,all
-||
+
 ||#grabify.link - not publicly visible
 ||rëddït.com^$important,all
 ||yoütu.be^$important,all
@@ -1658,7 +1659,7 @@ youtube.com#@#.overlay-ads
 ||alanlindsay.net^$important,all
 ||asianrbtrade.net^$important,all
 ||myprivate.pics^$important,all
-||
+
 ||# Main: iplogger.org
 ||iplogger.org^$important,all
 ||iplogger.com^$important,all
@@ -1674,33 +1675,33 @@ youtube.com#@#.overlay-ads
 ||iplogger.info^$important,all
 ||ipgrabber.ru^$important,all
 ||ipgraber.ru^$important,all
-||
-||# Main: cyber-hub.net^ 
-||# Currently disabled? as of 27/1/2020
+
+# Main: cyber-hub.net^ 
+# Currently disabled? as of 27/1/2020
 ||skypegrab.net^$important,all
 ||fortnite-stats.site^$important,all
 ||minecraft-skins.xyz^$important,all
 ||booter.icu^$important,all
 ||discordcrypt.xyz^$important,all
-||
-||# Main: webresolver.nl
-||# - Their sites redirects to authentic sites to make themself seems legit
-||# - Also known as: ctrlhub.co & iplogger.us
+
+# Main: webresolver.nl
+# - Their sites redirects to authentic sites to make themself seems legit
+# - Also known as: ctrlhub.co & iplogger.us
 ||gyazo.nl^$important,all
 ||yȯutube.com^$important,all
-||
-||# Main: adf.ly
+
+# Main: adf.ly
 ||atharori.net^$important,all
 ||
-||# Main: linkify.me
+# Main: linkify.me
 ||linkify.me^$important,all
 ||bitly-bot.com^$important,all
 ||adfly-bot.online^$important,all
-||
-||#Main: grabify.icu
+
+#Main: grabify.icu
 ||grabify.icu^$important,all
 ||maifile.cn^$important,all
-||
-||#Main: myiptest.com^
+
+#Main: myiptest.com^
 ||myiptest.com^$important,all
 ||myiptest.com^/img.php^$important,all
