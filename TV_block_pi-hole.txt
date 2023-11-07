@@ -436,7 +436,7 @@ youtube.com#@#.overlay-ads
 
 #for LG
 
-||from seb999 / piHole-LgTV 
+from seb999 / piHole-LgTV 
 ||us.rdx2.lgtvsdp.com^
 ||us.info.lgsmartad.com^
 ||us.ibs.lgappstv.com^
@@ -1647,7 +1647,7 @@ youtube.com#@#.overlay-ads
 ||stopify.co^$important,all
 ||stock-images.0o.si^$important,all
 
-||#grabify.link - not publicly visible
+#grabify.link - not publicly visible
 ||rëddït.com^$important,all
 ||yoütu.be^$important,all
 ||xda-developers.us^$important,all
@@ -1659,14 +1659,14 @@ youtube.com#@#.overlay-ads
 ||asianrbtrade.net^$important,all
 ||myprivate.pics^$important,all
 
-||# Main: iplogger.org
+# Main: iplogger.org
 ||iplogger.org^$important,all
 ||iplogger.com^$important,all
 ||iplogger.ru^$important,all
 ||2no.co^$important,all
 ||yip.su^$important,all
 ||mapper.info^$important,all
-||#iplogger.org - not publicly visible
+#iplogger.org - not publicly visible
 ||ezstat.ru^$important,all
 ||02ip.ru^$important,all
 ||iplo.ru^$important,all
