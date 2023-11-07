@@ -1691,7 +1691,7 @@ from seb999 / piHole-LgTV
 
 # Main: adf.ly
 ||atharori.net^$important,all
-||
+
 # Main: linkify.me
 ||linkify.me^$important,all
 ||bitly-bot.com^$important,all
