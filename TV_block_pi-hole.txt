@@ -1,3 +1,4 @@
+[Adblock Plus]
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 6 days
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
