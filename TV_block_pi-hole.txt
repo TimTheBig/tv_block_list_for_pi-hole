@@ -1,5 +1,5 @@
 ! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 7 days
+! Expires: 6 days
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
 duckduckgo.com##.js-feedback-btn-wrap
 /a-ads.$third-party
