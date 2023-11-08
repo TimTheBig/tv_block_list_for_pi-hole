@@ -2,10 +2,7 @@
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 6 days
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
-duckduckgo.com##.js-feedback-btn-wrap
 /a-ads.$third-party
-spoilertv.com#@##adsensewide
-browsershots.org#@#.advert_area
 googleads.g.doubleclick.net#@#div[id^="ad_position_"]
 ads.google.com,youtube.com#@#.video-ads
 youtube.com#@#.overlay-ads
