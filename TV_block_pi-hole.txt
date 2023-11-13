@@ -745,7 +745,7 @@ from seb999 / piHole-LgTV
 ||a873.g1.akamai.net^
 ||a948.g1.akamai.net^
 ||a948.ga.akamai.net^
-*.phobos.apple.com
+*.phobos.apple.com^
 ||a968.g1.akamai.net^
 ||a975.g.akamai.net^
 ||accertify.mzstatic.com^
