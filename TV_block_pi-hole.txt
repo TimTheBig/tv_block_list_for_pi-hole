@@ -26,7 +26,7 @@ youtube.com#@#.overlay-ads
 ||googleoptimize.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^go.ondutydoc.com^
-||go.onecart.co.za
+||go.onecart.co.za^
 ||go.oracle.com^
 ||log.pinterest.com^
 ||logql.yahoo.co.jp
@@ -36,13 +36,13 @@ youtube.com#@#.overlay-ads
 ||collector.github.com^
 ||cloudflareinsights.com^
 ||cdn-spurit.com^
-||cdnhub.co
+||cdnhub.co^
 ||chartbeat.com^
 ||chimpstatic.com^
-||dla.group
+||dla.group^
 ||dmca.com^
 ||doppiocdn.com^
-||doppiocdn.org
+||doppiocdn.org^
 ||dotmetrics.net^
 ||doubleclick.net^
 
@@ -93,8 +93,8 @@ youtube.com#@#.overlay-ads
 ||ads.msn.com^
 ||ads1.msads.net^
 ||ads1.msn.com^
-||aka-cdn-ns.adtech.de
-||api.cortana.ai
+||aka-cdn-ns.adtech.de^
+||api.cortana.ai^
 ||api.edgeoffer.microsoft.com^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||azwancan.trafficmanager.net^
@@ -401,7 +401,7 @@ youtube.com#@#.overlay-ads
 ||device-metrics-us-2.amazon.com^
 ||samsungqbe.com^
 ||customerevents.net^flix.com^
-||pool.ntp.org
+||pool.ntp.org^
 
 
 
@@ -1656,7 +1656,7 @@ from seb999 / piHole-LgTV
 ||asianrbtrade.net^$important,all
 ||myprivate.pics^$important,all
 
-# Main: iplogger.org
+# Main: iplogger.org^
 ||iplogger.org^$important,all
 ||iplogger.com^$important,all
 ||iplogger.ru^$important,all
