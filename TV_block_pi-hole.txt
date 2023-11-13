@@ -74,16 +74,16 @@ youtube.com#@#.overlay-ads
 
 
 #from  crazy-max / WindowsSpyBlocker 
-*.adnxs.com
-*.ads*.msads.net
-*.ads*.msn.com
+*.adnxs.com^
+*.ads*.msads.net^
+*.ads*.msn.com^
 *.atdmt.com^
-*.glbdns2.microsoft.com
-*.rad.msn.com
-*.rads.msn.com
-*.telemetry.microsoft.com
-*.vortex*.data.microsoft.com
-*.vortex.data.microsoft.com
+*.glbdns2.microsoft.com^
+*.rad.msn.com^
+*.rads.msn.com^
+*.telemetry.microsoft.com^
+*.vortex*.data.microsoft.com^
+*.vortex.data.microsoft.com^
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||ac3.msn.com^
