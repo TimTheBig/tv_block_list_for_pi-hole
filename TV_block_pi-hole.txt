@@ -70,21 +70,20 @@ youtube.com#@#.overlay-ads
 ||disc501.prod.do.dsp.mp.microsoft.com^
 ||array502.prod.do.dsp.mp.microsoft.com^
 ||kv501.prod.do.dsp.mp.microsoft.com^
-||self.events.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 
 
 #from  crazy-max / WindowsSpyBlocker 
-||*.adnxs.com^
-||*.ads*.msads.net^
-||*.ads*.msn.com^
-||*.atdmt.com^
-||*.glbdns2.microsoft.com^
-||*.rad.msn.com^
-||*.rads.msn.com^
-||*.telemetry.microsoft.com^
-||*.vortex*.data.microsoft.com^
-||*.vortex.data.microsoft.com^
+*.adnxs.com
+*.ads*.msads.net
+*.ads*.msn.com
+*.atdmt.com^
+*.glbdns2.microsoft.com
+*.rad.msn.com
+*.rads.msn.com
+*.telemetry.microsoft.com
+*.vortex*.data.microsoft.com
+*.vortex.data.microsoft.com
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||ac3.msn.com^
