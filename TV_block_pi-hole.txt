@@ -5,6 +5,9 @@
 
 ads.google.com,youtube.com#@#.video-ads
 youtube.com#@#.overlay-ads
+!#if (env_firefox)
+enotes.com##section.c-cta-section
+enotes.com##+js(ra, class, div[class^="_"])
 ^ads
 # list:
 #general
