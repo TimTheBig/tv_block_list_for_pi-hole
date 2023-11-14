@@ -1,6 +1,8 @@
 [Adblock Plus]
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 5 days
+! nome: https://github.com/TimTheBig/tv_block_list_for_pi-hole
+
 ads.google.com,youtube.com#@#.video-ads
 youtube.com#@#.overlay-ads
 ^ads
@@ -18,7 +20,7 @@ youtube.com#@#.overlay-ads
 ||console-telemetry.oci.oraclecloud.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
-||events.santander.co.uk
+||events.santander.co.uk^
 ||events-service.coinbase.com^
 ||events.shareably.net^
 ||google-analytics-cn.com^
