@@ -50,7 +50,8 @@ enotes.com##+js(ra, class, div[class^="_"])
 ||doppiocdn.org^
 ||dotmetrics.net^
 ||doubleclick.net^
-||flaticon.com^
+||slidesgo.com/ssmas/fi.html
+||slidesgo.com/ssmas/fp-photos.html
 
 
 #for amazon
