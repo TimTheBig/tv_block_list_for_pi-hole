@@ -53,6 +53,7 @@ enotes.com##+js(ra, class, div[class^="_"])
 ||slidesgo.com/ssmas/fi.html
 ||slidesgo.com/ssmas/fp-photos.html
 ##.flex-col.flex.px-4.lg\:w-2\/6.sm\:w-4\/12.w-full
+##.relative.border-gray-250.border.mt-6
 
 
 #for amazon
