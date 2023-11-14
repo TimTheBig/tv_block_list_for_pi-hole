@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! license: GNU GENERAL PUBLIC LICENSE
-! Expires: 6 days
+! Expires: 5 days
 ads.google.com,youtube.com#@#.video-ads
 youtube.com#@#.overlay-ads
 ^ads
