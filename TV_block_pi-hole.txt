@@ -50,6 +50,7 @@ enotes.com##+js(ra, class, div[class^="_"])
 ||doppiocdn.org^
 ||dotmetrics.net^
 ||doubleclick.net^
+||flaticon.com^
 
 
 #for amazon
