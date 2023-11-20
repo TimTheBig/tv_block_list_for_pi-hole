@@ -55,7 +55,7 @@ enotes.com##+js(ra, class, div[class^="_"])
 ##.relative.border-gray-250.border.mt-6
 ##.relative.border-gray-250.border.mb-6
 ##div.inline-content:nth-of-type(1)
-||cdn.sanity.io/images/708bnrs8/production/3210bda164884d2ea3fdcd80dba30f6a51bd303d-500x90.jpg?*&auto=format
+###ad_footer--92072451-7261-5bdc-8d23-18135f3d45cd > .gatsby-image-wrapper-constrained.gatsby-image-wrapper > div
 
 
 #for amazon
