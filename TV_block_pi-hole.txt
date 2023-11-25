@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! license: GNU GENERAL PUBLIC LICENSE
 ! Expires: 5 days
-! nome: https://github.com/TimTheBig/tv_block_list_for_pi-hole
+! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 ads.google.com,youtube.com#@#.video-ads
 youtube.com#@#.overlay-ads
@@ -1000,7 +1000,6 @@ from seb999 / piHole-LgTV
 ||is-ssl.mzstatic.com^.itunes-apple.com.akadns.net^
 ||itc.mzstatic.com^
 ||itunes.apple.com^.edgekey.net^
-||itunes-cdn.itunes-apple.com.akadns.net^
 ||itunesconnect.apple.com^
 ||itunesu.itunes.apple.com^
 ||keyvalueservice.fe.apple-dns.net^
