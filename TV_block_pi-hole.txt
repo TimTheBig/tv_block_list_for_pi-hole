@@ -59,6 +59,7 @@ enotes.com##+js(ra, class, div[class^="_"])
 ###ad_sidebar-1 > .gatsby-image-wrapper-constrained.gatsby-image-wrapper
 !#if env_firefox
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+||www.google.*/search?$doc,removeparam=client
 !#endif
 
 #for amazon
