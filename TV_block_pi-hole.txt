@@ -1414,7 +1414,6 @@ from seb999 / piHole-LgTV
 ||pipe.cloudapp.aria.akadns.net^
 ||pipe.prd.skypedata.akadns.net^
 ||play-cdn.itunes-apple.com.akadns.net^
-||play.itunes.apple.com^
 ||play.itunes-apple.com.akadns.net^
 ||play.itunes.apple.com^.edgesuite.net^
 ||pop-eur-benelux-courier.push-apple.com.akadns.net^
