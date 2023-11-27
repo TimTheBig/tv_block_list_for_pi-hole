@@ -967,7 +967,6 @@ api-glb-lon.smoot.apple.com
 ||gspe35-ssl.ls-apple.com.akadns.net^
 ||gsp-ssl-dynamic.ls-apple.com.akadns.net^
 ||gsp-ssl.ls2-apple.com.akadns.net^
-||gsp-ssl.ls.apple.com^
 ||gsp-ssl.ls-apple.com.akadns.net^
 ||health-assets.cdn-apple.com^
 ||hls.itunes.apple.com^
