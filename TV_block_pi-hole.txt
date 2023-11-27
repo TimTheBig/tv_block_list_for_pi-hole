@@ -1,7 +1,7 @@
 [Adblock Plus & UBo extended]
 ! license: GNU GENERAL PUBLIC LICENSE V3
 ! Expires: 3 days
-! Updated: 2023-11-27-3:41pm
+! Updated: 2023-11-27-3:52pm
 ! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 
@@ -49,7 +49,7 @@
 ||ad.*.com^
 ||ads.*.com^
 ||ads.*.net^
-||doubleclick.^[a-z]
+||doubleclick.[a-z]^
 ||cdnhub.com
 ||doubleclick.*(com|net)$third-party
 [a-z].doubleclick.net^$third-party
@@ -78,7 +78,7 @@ bing.com##+js(nosiif, logQueue, 10000)
 
 #for amazon
 ||ads.amazon.com^
-||amazon-adsystem.*
+||amazon-adsystem.com
 ||*.amazon-adsystem.com^$third-party
 ||ads.amazon-adsystem.com^
 ||unagi-na.amazon.com^
