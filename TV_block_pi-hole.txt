@@ -1,6 +1,6 @@
-[Adblock Plus]
+[Adblock Plus & UBo extended]
 ! license: GNU GENERAL PUBLIC LICENSE V3
-! Expires: 5 days
+! Expires: 4 days
 ! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 ads.google.com,youtube.com#@#.video-ads
