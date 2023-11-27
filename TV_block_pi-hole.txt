@@ -1,7 +1,7 @@
 [Adblock Plus & UBo extended]
 ! license: GNU GENERAL PUBLIC LICENSE V3
 ! Expires: 3 days
-! Updated: 2023-11-27-3:52pm
+! Updated: 2023-11-27-6:18pm
 ! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 
@@ -32,7 +32,7 @@
 ||go.onecart.co.za^
 ||go.oracle.com^
 ||log.pinterest.com^
-||logql.yahoo.co.jp
+||logql.yahoo.co.jp^
 ||log.quora.com^
 ||metrics.amd.com^
 ||metrics.roblox.com^
@@ -46,14 +46,13 @@
 ||doppiocdn.com^
 ||doppiocdn.org^
 ||dotmetrics.net^
+||cdnhub.com
 ||ad.*.com^
 ||ads.*.com^
 ||ads.*.net^
 ||doubleclick.[a-z]^
-||cdnhub.com
 ||doubleclick.*(com|net)$third-party
 [a-z].doubleclick.net^$third-party
-[a-z].doubleclick.net^
 
 #UBo syntax
 !#if ext_ublock
