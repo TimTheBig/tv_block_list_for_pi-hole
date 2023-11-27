@@ -51,7 +51,7 @@
 ||ads.*.net^
 ||doubleclick.[a-z]^
 ||cdnhub.com
-||doubleclick.*(com|net)
+||doubleclick.*(com|net)$third-party
 
 #UBo syntax
 !#if ext_ublock
