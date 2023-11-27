@@ -1,7 +1,7 @@
 [Adblock Plus & UBo extended]
 ! license: GNU GENERAL PUBLIC LICENSE V3
 ! Expires: 3 days
-! Updated: 2023-11-27-2:38pm
+! Updated: 2023-11-27-2:41pm
 ! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 ||doubleclick.net^
