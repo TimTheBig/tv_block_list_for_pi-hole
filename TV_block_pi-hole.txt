@@ -52,8 +52,8 @@
 ||doubleclick.^[a-z]
 ||cdnhub.com
 ||doubleclick.*(com|net)$third-party
-*.doubleclick.net^$third-party
-*.doubleclick.net^
+||*.doubleclick.net^$third-party
+||*.doubleclick.net^
 
 #UBo syntax
 !#if ext_ublock
