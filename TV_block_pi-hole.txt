@@ -4,7 +4,7 @@
 ! Updated: 2023-11-27-2:38pm
 ! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
-
+||doubleclick.net^
 ^ads
 # list:
 #general
