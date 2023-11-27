@@ -50,7 +50,7 @@ enotes.com##+js(ra, class, div[class^="_"])
 ||doppiocdn.org^
 ||dotmetrics.net^
 ad.*.com^
-doubleclick.*/^
+doubleclick.(com|net|co.uk)
 ||doubleclick.*
 cdnhub.*
 ads.*.*
