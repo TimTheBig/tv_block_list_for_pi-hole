@@ -49,10 +49,9 @@
 ||ad.*.com^
 ||ads.*.com^
 ||ads.*.net^
-doubleclick.*(com|net)
 ||doubleclick.[a-z]^
 ||cdnhub.com
-
+doubleclick.*(com|net)
 
 #UBo syntax
 !#if ext_ublock
