@@ -3,7 +3,7 @@
 ! license: GNU GENERAL PUBLIC LICENSE V3
 ! Expires: 3 days
 ! Updated: 2023-11-28-12:30pm
-! Home: https://github.com/TimTheBig/tv_block_list_for_pi-hole
+! Homepage: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 
 ^ads
