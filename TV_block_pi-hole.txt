@@ -2,13 +2,13 @@
 ! Title: TimTheBig TV block list
 ! license: GNU GENERAL PUBLIC LICENSE V3
 ! Expires: 3 days
-! Updated: 2023-11-29-11:18am
+! Updated: 2023-11-29-6:12pm
 ! Homepage: https://github.com/TimTheBig/tv_block_list_for_pi-hole
 
 ! add to pi-hole regx:
-! /(ads\.)|(ad\.)?doubleclick\.[a-z]+/$script,third-party
-! /[a-z]+\.doubleclick\.net/$script,third-party
-! /((ads\.)|(ad\.))+([a-z1-9]?|[a-z]?|[1-9]?)+\.[a-z]+/g
+! (ads\.)|(ad\.)?doubleclick\.[a-z]+
+! [a-z]+\.doubleclick\.net/
+! ((ads\.)|(ad\.))+([a-z1-9]?|[a-z]?|[1-9]?)+\.[a-z]+
 
 ^ads
 # list:
