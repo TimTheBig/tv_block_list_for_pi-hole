@@ -51,7 +51,7 @@
 ||doppiocdn.com^
 ||doppiocdn.org^
 ||dotmetrics.net^
-||cdnhub.com
+||provisioning-use2.mgmt.aibixby.com^
 ||ad.*.com^
 ||ads.*.com^
 ||ads.*.net^
@@ -433,6 +433,7 @@ bing.com##+js(nosiif, logQueue, 10000)
 ||samsungqbe.com^
 ||customerevents.net^flix.com^
 ||pool.ntp.org^
+||provisioning-use2.mgmt.aibixby.com^
 
 
 
