@@ -57,6 +57,7 @@
 ||ads.*.net^
 ||ads|ad.*.com|net^
 ||doubleclick.net^$third-party
+||galaxy-log.gog.com^
 ! bn3sch\d+\S\.wns\.windows\.com
 
 #UBo syntax
